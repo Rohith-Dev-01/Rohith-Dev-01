@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Rohith K 👋</h1>
 
-### Student Developer • Full-Stack Development Enthusiast
+### Student Developer 
 
 I'm a student at **Presidency University**, interested in building useful digital products and learning how modern applications work—from polished user interfaces to the data that powers them.
 
