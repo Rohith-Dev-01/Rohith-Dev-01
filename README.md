@@ -28,7 +28,7 @@ A digital legacy platform designed to help people organize digital assets, recor
 
 ### 💸 [BountyVault — Decentralized Bounty Escrow](https://github.com/Faizankhan-cyber/bountyvault)
 
-A hackathon project built in collaboration with **[Faizan](https://github.com/Faizankhan-cyber)**. BountyVault explores escrow-based bounty workflows, milestone delivery, payment release, and dispute handling on the Algorand Testnet.
+A hackathon project built in collaboration for Hackathon at Presidency University. BountyVault explores escrow-based bounty workflows, milestone delivery, payment release, and dispute handling on the Algorand Testnet.
 
 **My contribution:** Focused on the **frontend development**, building the user-facing experience for the application.
 
@@ -38,7 +38,7 @@ A hackathon project built in collaboration with **[Faizan](https://github.com/Fa
 
 ### 👥 [Togetherly Workforce — AI-Powered Workforce Intelligence](https://github.com/Faizankhan-cyber/togetherly-workforce)
 
-Another hackathon collaboration with **[Faizan](https://github.com/Faizankhan-cyber)**. Togetherly helps teams plan staffing by matching employee skills and experience with project needs while considering workload and availability.
+Another hackathon collaboration for a Hackathon at AMC Engineering College. Togetherly helps teams plan staffing by matching employee skills and experience with project needs while considering workload and availability.
 
 **My contribution:** Worked on both the **frontend and database**, helping build the user interface and work with the Supabase-backed data layer.
 
@@ -77,9 +77,9 @@ Another hackathon collaboration with **[Faizan](https://github.com/Faizankhan-cy
 ## 🤝 Let's Connect
 
 - GitHub: [@Rohith-Dev-01](https://github.com/Rohith-Dev-01)
-- University: Presidency University
-- Hackathon collaborator: [Faizan](https://github.com/Faizankhan-cyber)
-
+- LinkedIn: [Rohith K](https://www.linkedin.com/in/rohith-k-152a343bb)
+- College: Presidency University
+- 
 I'm open to connecting with other developers, learning together, and collaborating on interesting projects.
 
 <p align="center"><i>Build with curiosity. Learn by doing. Improve with every commit. ✨</i></p>
