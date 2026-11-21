@@ -1,84 +1,140 @@
-<h1 align="center">Hey, I'm Rohith K 👋</h1>
+<div align="center">
 
-### Student Developer 
+# Hey, I'm Rohith 👋
 
-I'm a student at **Presidency University**, interested in building useful digital products and learning how modern applications work—from polished user interfaces to the data that powers them.
+### Student Developer · Full-Stack Web Development · Product Builder
 
-I enjoy turning ideas into working projects, exploring new technologies, and improving through hands-on development and collaboration.
+I turn ideas into useful digital products — from thoughtful user interfaces to the systems and data behind them.
 
-- 🚀 Latest build **[MemoryVault](https://github.com/Rohith-Dev-01/MemoryVault)**
-- 🌱 Exploring full-stack development and modern web technologies
-- 💡 Interested in practical software, thoughtful UI, and backend systems
+[![GitHub](https://img.shields.io/badge/GitHub-Rohith--Dev--01-181717?style=for-the-badge&logo=github)](https://github.com/Rohith-Dev-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohith-k-152a343bb)
+[![University](https://img.shields.io/badge/Presidency_University-Student-5B4BDB?style=for-the-badge)](https://presidencyuniversity.in/)
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 [MemoryVault — Digital Legacy Management](https://github.com/Rohith-Dev-01/MemoryVault)
-
-A digital legacy platform designed to help people organize digital assets, record final wishes, assign trusted contacts, and manage legacy access through an admin-verification process.
-
-- Organize and catalog digital assets
-- Record final wishes and trusted contacts
-- Support inactivity monitoring and controlled legacy access
-- Built with a modern web stack and PostgreSQL-backed data
-
-**[View Repository](https://github.com/Rohith-Dev-01/MemoryVault)** · **[Live Demo](https://memory-vault-main.vercel.app/)**
-
-### 💸 [BountyVault — Decentralized Bounty Escrow](https://github.com/Faizankhan-cyber/bountyvault)
-
-A hackathon project built in collaboration for Hackathon at Presidency University. BountyVault explores escrow-based bounty workflows, milestone delivery, payment release, and dispute handling on the Algorand Testnet.
-
-**My contribution:** Focused on the **frontend development**, building the user-facing experience for the application.
-
-**Tech:** React, TypeScript, Vite, Tailwind CSS, Algorand Testnet
-
-**[View Repository](https://github.com/Faizankhan-cyber/bountyvault)** · **[Live Demo](https://bountyvault-project.vercel.app/)**
-
-### 👥 [Togetherly Workforce — AI-Powered Workforce Intelligence](https://github.com/Faizankhan-cyber/togetherly-workforce)
-
-Another hackathon collaboration for a Hackathon at AMC Engineering College. Togetherly helps teams plan staffing by matching employee skills and experience with project needs while considering workload and availability.
-
-**My contribution:** Worked on both the **frontend and database**, helping build the user interface and work with the Supabase-backed data layer.
-
-**Tech:** React, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL
-
-**[View Repository](https://github.com/Faizankhan-cyber/togetherly-workforce)** · **[Live Demo](https://togetherly-tinyfish.vercel.app/)**
+</div>
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧭 About Me
+
+I'm a student at **Presidency University**, interested in building practical software and learning how modern applications work end to end.
+
+I enjoy working across the product experience — shaping clean, responsive interfaces, connecting them to reliable backend services, and collaborating with others to turn ideas into working projects.
+
+- 🚀 Building: **MemoryVault**, a digital legacy management platform.
+- 🧩 Interested in: Full-stack development, thoughtful UI, and backend systems.
+- 🤝 Experience: Hackathon collaboration and hands-on project development.
+- 🌱 Always learning, experimenting, and improving through building.
+
+## 🛰️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [MemoryVault](https://github.com/Rohith-Dev-01/MemoryVault)
+
+**Digital Legacy Management Platform**
+
+A platform to help people organize digital assets, record final wishes, assign trusted contacts, and manage legacy access through an admin-verification process.
+
+**Focus areas**
+- Digital asset organization
+- Trusted contacts and final wishes
+- Controlled legacy access
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://memory-vault-main.vercel.app/)
+[![Source](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Rohith-Dev-01/MemoryVault)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 [BountyVault](https://github.com/Faizankhan-cyber/bountyvault)
+
+**Decentralized Bounty Escrow**
+
+A hackathon project exploring escrow-based bounty workflows, milestone delivery, payment release, and dispute handling on the Algorand Testnet.
+
+**My contribution:** Frontend development — building the user-facing experience.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://bountyvault-project.vercel.app/)
+[![Source](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Faizankhan-cyber/bountyvault)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 [Togetherly Workforce](https://github.com/Faizankhan-cyber/togetherly-workforce)
+
+**AI-Powered Workforce Platform**
+
+A platform that helps teams plan staffing by matching employee skills and experience with project needs and workload.
+
+**My contribution:** Frontend development and database work.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://togetherly-tinyfish.vercel.app/)
+[![Source](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Faizankhan-cyber/togetherly-workforce)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 What I Like Building
+
+- Clean, responsive web interfaces
+- Useful tools that solve real problems
+- Full-stack applications with connected data
+- Products built through teamwork and iteration
+
+I value understanding the problem, building a clear solution, and refining it based on what works.
+
+</td>
+</tr>
+</table>
+
+## ⚙️ Tech Stack
+
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML, CSS, JavaScript, TypeScript, React" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,tailwind,vite" alt="Node.js, Express, PostgreSQL, Supabase, Tailwind CSS, Vite" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="Git, GitHub, Vercel, Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS and Vite" />
 </p>
 
----
+**Backend, Data & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,git,github,vercel,vscode" alt="Node.js, Express, Supabase, PostgreSQL, Git, GitHub, Vercel and VS Code" />
+</p>
+
+## 🌱 Current Learning Path
+
+| Area | What I'm strengthening |
+| --- | --- |
+| Frontend engineering | React, TypeScript, responsive UI, reusable components |
+| Backend development | API integration, application architecture |
+| Data | Supabase, PostgreSQL, data modeling |
+| Developer workflow | Git, GitHub, deployment, collaboration |
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-Dev-01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rohith's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Dev-01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohith-Dev-01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-Dev-01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rohith's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Dev-01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Rohith-Dev-01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ## 🤝 Let's Connect
 
-- GitHub: [@Rohith-Dev-01](https://github.com/Rohith-Dev-01)
-- LinkedIn: [Rohith K](https://www.linkedin.com/in/rohith-k-152a343bb)
-- College: Presidency University
-- 
-I'm open to connecting with other developers, learning together, and collaborating on interesting projects.
+I'm open to connecting with fellow developers, learning from others, and collaborating on interesting projects.
 
-<p align="center"><i>Build with curiosity. Learn by doing. Improve with every commit. ✨</i></p>
+- **GitHub:** [@Rohith-Dev-01](https://github.com/Rohith-Dev-01)
+- **LinkedIn:** [Rohith K](https://www.linkedin.com/in/rohith-k-152a343bb)
+- **University:** Presidency University
+
+---
+
+<div align="center">
+
+*Build with curiosity. Learn by doing. Improve with every commit.* ✨
+
+</div>
