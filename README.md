@@ -6,8 +6,7 @@ I'm a student at **Presidency University**, interested in building useful digita
 
 I enjoy turning ideas into working projects, exploring new technologies, and improving through hands-on development and collaboration.
 
-- 🚀 Currently building **[MemoryVault](https://github.com/Rohith-Dev-01/MemoryVault)**
-- 🤝 Built hackathon projects with my friend **[Faizan](https://github.com/Faizankhan-cyber)**
+- 🚀 Latest build **[MemoryVault](https://github.com/Rohith-Dev-01/MemoryVault)**
 - 🌱 Exploring full-stack development and modern web technologies
 - 💡 Interested in practical software, thoughtful UI, and backend systems
 
