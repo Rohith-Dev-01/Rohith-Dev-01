@@ -1,4 +1,4 @@
-# Hey, I'm Rohith K 👋
+<h1 align="center">Hey, I'm Rohith K 👋</h1>
 
 ### Student Developer • Full-Stack Development Enthusiast
 
